@@ -1,4 +1,4 @@
 vg_account_confirm
 ==================
 
-* d9193a3f816dbb9738e8df66175e3a6eb4c3d1bbb29c85df04b829b2a37562d3
+* ddc9a6b98ed6a2fad7f6b643b3af0acde52b09cd101ff559c7c0fcfbfdc79bd7
